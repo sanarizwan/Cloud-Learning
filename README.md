@@ -6,4 +6,6 @@ Making new changes and learning commands
 
 I have created a new branch - tutorial/git
 
+Testing new branch
+
 Created another branch called TestBranch
